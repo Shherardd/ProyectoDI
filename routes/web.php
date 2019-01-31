@@ -21,3 +21,7 @@ Route::get('/login', function () {
 Route::get('/register', function () {
     return view('register');
 });
+
+Route::get('/ruta1', function () {
+    return view('ruta1');
+});
