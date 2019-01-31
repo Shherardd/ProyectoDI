@@ -1,2 +1,2 @@
-<h1>Login Page</h1>
+<h1>Iniciar sesion</h1>
 <a href="/">welcome page</a>
